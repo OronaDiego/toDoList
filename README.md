@@ -8,4 +8,5 @@ El proyecto tiene las siguiente características:
 - Se podrá persistir datos mediante el uso del Storage.
 
 # Para correr el proyecto
-Usar la extención de VSCode Live Server.# toDoList
+-Es necesario clonar el repo y ejecyutarlo en un entorno local
+-Usar la extención de VSCode Live Server.# toDoList
